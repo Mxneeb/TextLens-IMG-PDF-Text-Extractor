@@ -8,7 +8,8 @@
 A powerful, user-friendly desktop application for extracting text from images and PDF documents using Tesseract OCR.
 
 ![image](https://github.com/user-attachments/assets/6631442d-53c2-424c-977b-4987dc7733c3)
-![image](https://github.com/user-attachments/assets/7bf0989f-210e-4c1e-8c9d-7965d5e5eea1)
+![image](https://github.com/user-attachments/assets/3e88d472-5791-446a-b726-025a6964ad85)
+
 
 
 ## ✨ Features
@@ -68,8 +69,6 @@ A powerful, user-friendly desktop application for extracting text from images an
 
 <table>
   <tr>
-    <td><img src="![image](https://github.com/user-attachments/assets/1383d0c1-1b31-4d89-a4e2-548cf730125e)" alt="Light Theme" width="400"/></td>
-    <td><img src="![image](https://github.com/user-attachments/assets/561ab63a-2c7a-4318-88af-16d6d8142db1)" alt="Dark Theme" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><em>Light Theme</em></td>
