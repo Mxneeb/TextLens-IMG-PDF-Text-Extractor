@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>History</title>
+  <circle cx="12" cy="12" r="10"/> {/* Clock border */}
+  <polyline points="12 6 12 12 16 14"/> {/* Clock hands */}
+  <path d="M3 12c0-4.97 4.03-9 9-9 4.97 0 9 4.03 9 9s-4.03 9-9 9"/> {/* History arrow */}
+</svg>
